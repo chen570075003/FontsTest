@@ -1,0 +1,140 @@
+{
+    "Fonts": [
+        {
+            "name": "楷体",
+            "previewImg": "STKaiti",
+            "tag": "Kaiti",
+            "files": ["", ""],
+            "family": "Kaiti",
+            "regular": "STKaiti-Regular.ttc"
+        },
+        {
+            "name": "苹方",
+            "previewImg": "PingFang",
+            "tag": "Pingfang",
+            "files": [""],
+            "family": "PingFang",
+            "regular": ""
+        },
+        {
+            "name": "黑体",
+            "previewImg": "Heiti",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "宋体",
+            "previewImg": "Songti",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "行楷",
+            "previewImg": "Xingkai",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "手札体",
+            "previewImg": "Shouzhati",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "翩翩体",
+            "previewImg": "Pianpianti",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "圆体",
+            "previewImg": "Yuanti",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "兰亭黑",
+            "previewImg": "Lantinghei",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "冬青黑体",
+            "previewImg": "Dongqinghei",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "华文仿宋",
+            "previewImg": "Fangsong",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "华文宋体",
+            "previewImg": "STSong",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "凌慧体",
+            "previewImg": "Linghuiti",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "娃娃体",
+            "previewImg": "Wawati",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "报隶",
+            "previewImg": "Baoli",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "隶变",
+            "previewImg": "Libian",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        },
+        {
+            "name": "雅痞",
+            "previewImg": "Yapi",
+            "tag": "Songti",
+            "files": ["Songti.ttc"],
+            "family": "Heiti",
+            "regular": "Songti.ttc"
+        }
+    ]
+}
